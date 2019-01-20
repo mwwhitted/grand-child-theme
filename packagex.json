@@ -1,21 +1,6 @@
 {
   "name": "grand-child-theme",
   "version": "1.0.0",
-  "description": "Grandchild theme for WP as a site specific plugin",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mwwhitted/grand-child-theme.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mwwhitted/grand-child-theme/issues"
-  },
-  "homepage": "https://github.com/mwwhitted/grand-child-theme#readme",
   "dependencies": {
     "jquery": "^3.3.1",
     "jquery-smooth-scroll": "2.2.0",
@@ -49,5 +34,20 @@
     "postcss-nested": "2.1.2",
     "postcss-simple-vars": "4.1.0",
     "webpack": "3.8.1"
-  }
+  },
+  "description": "Grandchild theme for WP as a site specific plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwwhitted/grand-child-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwwhitted/grand-child-theme/issues"
+  },
+  "homepage": "https://github.com/mwwhitted/grand-child-theme#readme"
 }
