@@ -1,4 +1,18 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
 *.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+node_modules/
+.tmp/
+
+# WordPress 
 wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
@@ -17,3 +31,18 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+_notes
+dwsync.xml
