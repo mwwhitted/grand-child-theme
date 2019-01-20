@@ -12,6 +12,8 @@
 node_modules/
 .tmp/
 
+package-lock
+
 # WordPress 
 wp-config.php
 wp-content/advanced-cache.php
