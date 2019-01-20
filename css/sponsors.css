@@ -1,0 +1,153 @@
+/* sponsors.css */
+
+.widget_sponsors_widget ul {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.sidebar p:last-child, .sidebar ul {
+  margin: 0;
+}
+ol, ul {
+  margin: 0;
+  padding: 0;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+user agent stylesheet
+ul, menu, dir {
+  display: block;
+  list-style-type: disc;
+}
+.widget {
+/*    margin-bottom: 32px;*/
+  word-wrap: break-word;
+}
+/* 
+* #850c07	-	Maroon
+* #D9B33B	-	Gold
+* #5F6B5F	-	Green
+*/ 
+
+.widget-title{
+  background: url(images/lines.png) bottom repeat-x;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1;
+  margin-bottom: 2px;
+  padding-bottom: 2px;
+  text-align: left;
+}
+
+.cr3_sponsorname {
+color: #850c07;			/* Maroon */
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-size: 1.6rem;
+line-height: 1;
+margin-bottom: 2px;
+padding-bottom: 2px;
+text-align: left;
+}
+
+.cr3_sponsorwidget p {
+  float: left;
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+}
+.rpc-title {
+  text-overflow: ellipsis;
+  white-space: unset !important;
+overflow: hidden;
+}
+.widget_sponsors_widget ul {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.sidebar p:last-child, .sidebar ul {
+  margin: 0;
+}
+
+
+ol, ul {
+  margin: 0;
+  padding: 0;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+user agent stylesheet
+ul, menu, dir {
+  display: block;
+  list-style-type: disc;
+}
+.widget {
+/*    margin-bottom: 32px;*/
+  word-wrap: break-word;
+}
+/* 
+* #850c07	-	Maroon
+* #D9B33B	-	Gold
+* #5F6B5F	-	Green
+*/ 
+
+
+/*.genesis-nav-menu, .nav-primary {
+color: #D9B33B;			/* Gold */
+/*}*/
+.genesis-nav-primary a {
+color: #D9B33B;			/* Gold */
+}
+.menu-item {
+color: #D9B33B;			/* Gold */
+}
+
+.sponsor-title{
+color: #850c07;			/* Maroon */
+}
+
+.ctct-form{
+padding: 5px;
+/*	color: #850c07;			
+ background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
+}
+
+.widgettitle{  
+  background: url(images/lines.png) bottom repeat-x;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+/* ************** */
+.cr3_sponsorname {
+color: #850c07;			/* Maroon */
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-size: 1.6rem;
+line-height: 1;
+margin-bottom: 2px;
+padding-bottom: 2px;
+text-align: left;
+}
+
+.cr3_sponsorname p {
+color: #000 !important;
+  float: left;
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-bottom: 15px !important;
+}	
+
+#ctct-submitted,
+#gform_submit_button_2{
+  background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b;          /* Gold */
+}

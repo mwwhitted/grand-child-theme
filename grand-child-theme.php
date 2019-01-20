@@ -11,6 +11,17 @@ Domain Path: /languages
 */
 
 
+class GCT_Plugin {
+	function __construct()
+	{
+		echo "Starting our plugin...";
+	}
+}
+
+
+$my_plugin = new GCT_Plugin();
+// $my_plugin->...
+
 
 // These two lines ensure that your CSS is loaded alongside the parent or child theme's CSS
 add_action('wp_head', 'ntarei_gc_theme_add_headers', 0);

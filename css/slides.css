@@ -1,0 +1,13 @@
+/* slides.css*/
+
+html > body .slide-excerpt-border {
+  border: 0;
+  margin: 0; 
+  padding: 0;
+}
+
+.slide-excerpt {
+  margin: 25px 0;  
+  padding: 0;
+  
+}
