@@ -1,0 +1,87 @@
+/* _ntarei-header */
+
+/* NTAREI Header */
+
+.ntarei-page-header{
+	padding-bottom: 5px;
+	margin: 0 20px 10px 10px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+}
+
+.ntarei-header{
+	padding-bottom: 5px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.ntarei-header-left{
+  /*	width: 80%; */
+    margin: 0 0 0 0;
+    -webkit-box-flex: 4;
+        -ms-flex: 4;
+            flex: 4;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+
+#ntarei-welcome-header {
+    font-size: 2.5rem;
+    color: #D9B32C;
+    font-variant: small-caps;
+    line-height: 1;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+  }
+
+#ntarei-text-header {
+    font-size: 3.7rem;
+    color: #004E00;
+    font-variant: small-caps;
+    line-height: 1;
+    margin: 0;
+    -webkit-box-flex: 2;
+        -ms-flex: 2;
+            flex: 2;
+  }
+
+.ntarei-header-right{
+    /*	width: 20%; */
+      margin: 0 0 0 0;
+      height: 100%;
+      -webkit-box-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+    }
+
+#logo-img{
+      margin: 0 0 0 0;
+    }
+
+#ntarei-tag{
+      font-family: 'Cinzel', serif;
+      font-size: 2.5rem;
+      font-style: italic;
+      text-align: center;
+      line-height: 1;
+    }
+
+.gold-bar{
+      border-bottom: medium solid #D9B32C;
+      height: 0;
+      margin: 0 0 3px 0 
+    }
+
+/* End _ntarei-header */

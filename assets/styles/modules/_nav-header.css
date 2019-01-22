@@ -1,0 +1,111 @@
+  /* _nav-header */
+
+  /* Nav Header */
+
+  /* 
+  * #850c07	-	Maroon
+  * #D9B33B	-	Gold
+  * #5F6B5F	-	Green
+  */ 
+
+  .nav-primary 
+.genesis-responsive-menu{
+margin: 0 0 10px 0;
+}
+
+.genesis-nav-primary a {
+color: #D9B33B;			/* Gold */
+}
+.menu-item {
+color: #D9B33B;			/* Gold */
+}
+
+/* Site Navigation
+---------------------------------------------------------------------------------------------------- */
+
+.genesis-nav-menu {
+color: #D9B33B;						/* Gold */
+font-weight: bold;
+
+}
+
+.genesis-nav-menu a {
+color: #D9B33B;						/* Gold */
+font-weight: bold;
+}
+
+.genesis-nav-menu a:focus,
+.genesis-nav-menu a:hover,
+.genesis-nav-menu .current-menu-item > a {
+background-image:  none;
+  background-color: #d9b33b;          /* Gold */
+color:#5F6B5F;                      /* Green */
+font-weight: bold;
+}
+
+.genesis-nav-menu .sub-menu a {
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+}
+
+.genesis-nav-menu > .right > a:focus,
+.genesis-nav-menu > .right > a:hover {
+background-image:  none;
+  background-color: #d9b33b;          /* Gold */
+color:#5F6B5F;                      /* Green */
+font-weight: bold;
+}
+
+/* Site Header Navigation
+--------------------------------------------- */
+
+.site-header ul.genesis-nav-menu {
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+}
+
+
+/* Primary Navigation
+--------------------------------------------- */
+
+.nav-primary {
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+color: #D9B33B;						/* Gold */
+font-weight: bold;
+}
+
+.nav-primary a:focus,
+.nav-primary a:hover,
+.nav-primary .current-menu-item > a {
+  background-color: #d9b33b !important;   /* Gold */
+color:#5F6B5F;                      /* Green */
+font-weight: bold;
+}
+
+.nav-primary .sub-menu a:focus,
+.nav-primary .sub-menu a:hover {
+background-image:  none;
+  background-color: #d9b33b;          /* Gold */
+color:#5F6B5F;                      /* Green */
+   font-weight: bold;
+}
+
+/* Secondary Navigation
+--------------------------------------------- */
+
+.nav-secondary {
+/*	background-color: #024501;*/
+/* background-color: #d9b33b; */	/* Gold */
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+color: #d9b33b;						/* Gold */
+font-weight: bold;
+}
+
+.nav-secondary .sub-menu a:focus,
+.nav-secondary .sub-menu a:hover {
+background-image:  none;
+  background-color: #d9b33b;          /* Gold */
+color:#5F6B5F;                      /* Green */
+font-weight: bold;
+}
+  
+/* End _nav-header */

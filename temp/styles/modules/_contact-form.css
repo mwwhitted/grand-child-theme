@@ -1,0 +1,24 @@
+/* _contact-form */
+
+/* Contact Form */
+
+#custom_html-5{
+	background-color: #E5F2E5;
+	padding: 10px !important;
+}
+
+.ctct-form{
+padding: 5px;
+/*	color: #850c07;			
+ background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
+}
+
+#ctct-submitted,
+#gform_submit_button_2{
+  background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b;          
+}
+
+/* End _contact-form */
+

@@ -1,0 +1,22 @@
+/* _secondary-slider */
+
+/* Secondary Slider */
+
+.NTAREI-tag{
+	font-family: 'Cinzel', serif;
+	font-size: 4.5rem;
+	font-style: italic;
+	line-height: 1;
+	color: red;
+}
+.NTAREI-tag-list{
+	font-family: 'Cinzel', serif;
+	font-size: 3.5rem;
+	font-style: italic;
+	line-height: 1;
+	list-style: none;
+}
+
+/* End Secondary Slider */
+
+/* End _secondary-slider */

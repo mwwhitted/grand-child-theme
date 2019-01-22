@@ -1,0 +1,16 @@
+/* _header-base */
+
+/* Header Base */
+
+rpc-title {
+    text-overflow: ellipsis;
+    white-space: unset !important;
+  overflow: hidden;
+  }
+
+#blox_global_22554{
+	font-family: 'Cinzel', serif;
+	padding-bottom: 5px;
+}
+
+/* End _header-base */

@@ -1,0 +1,90 @@
+/* _sponsors */
+
+/* Sponsors */
+
+.widget_cr3sponsor_widget{
+	background-color: #E5F2E5;
+	padding: 10px !important;
+}
+
+.sponsor-title{
+color: #850c07;			/* Maroon */
+}
+
+.widget_sponsors_widget ul {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.sidebar p:last-child, .sidebar ul {
+  margin: 0;
+}
+
+ol, ul {
+  margin: 0;
+  padding: 0;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+user agent stylesheet
+ul, menu, dir {
+  display: block;
+  list-style-type: disc;
+}
+
+.widget {
+/*    margin-bottom: 32px;*/
+  word-wrap: break-word;
+}
+/* 
+* #850c07	-	Maroon
+* #D9B33B	-	Gold
+* #5F6B5F	-	Green
+*/ 
+
+
+.widgettitle,
+.widget-title{
+  background: url(images/lines.png) bottom repeat-x;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1;
+  margin-bottom: 2px;
+  padding-bottom: 10px;
+	text-align: left;
+  text-transform: none;
+	border-bottom: 15px solid grey;
+}
+
+.cr3_sponsorname {
+color: #850c07;			/* Maroon */
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-size: 1.6rem;
+line-height: 1;
+margin-bottom: 2px;
+padding-bottom: 2px;
+text-align: left;
+}
+
+.cr3_sponsorname p {
+color: #000 !important;
+  float: left;
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-bottom: 15px !important;
+}	
+
+.cr3_sponsorwidget {
+  float: left;
+  font-size: 12px;
+  line-height: 1.4em;
+  padding-bottom: 10px;
+	border-bottom: 15px solid grey;
+}
+
+/* End _sponsors */

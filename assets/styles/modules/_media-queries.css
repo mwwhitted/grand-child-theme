@@ -1,0 +1,158 @@
+/* _media-queries */
+
+/* *** Media Queries *** */
+
+@media only screen and (max-width: 767px) {
+
+#blox_global_21980, .blox-raw-wrap  {
+font-family: Cinzel, serif;
+font-size: 75%;
+font-style: italic;
+text-align: center;
+line-height: 1;
+margin: 0 0 16px 15px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+
+#blox_global_21973, .blox-theme-default .blox-image-container {
+ background: url(http://ntareicomdev.wpengine.com/wp-content/uploads/2010/01/logo-large.jpg) no-repeat 0 20px ;  }
+}
+
+@media only screen and (max-width: 767px) {
+.menu-toggle,
+.sub-menu-toggle {
+border-width: 0;
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+color: #D9B33B;						/* Gold */
+display: block;
+margin: 0 auto;
+overflow: hidden;
+text-align: center;
+visibility: visible;
+}
+
+.menu-toggle:focus,
+.menu-toggle:hover,
+.sub-menu-toggle:focus,
+.sub-menu-toggle:hover {
+border-width: 0;
+background-image:  none;
+background-color: #d9b33b;          /* Gold */
+color:#5F6B5F;                      /* Green */
+font-weight: bold;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.genesis-responsive-menu .genesis-nav-menu .current-menu-item > a {
+color: #5F6B5F;
+background-image: none;
+background-color: #D9B33B;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.slides h2 a{
+font-size: .5rem;
+color: red;
+line-height: .5rem;
+}
+}
+
+@media only screen and (max-width: 767px) {
+
+/* Page Header */
+
+#blox_global_22554{
+font-family: 'Cinzel', serif;
+padding-bottom: 5px;
+}
+
+.ntarei-page-header{
+padding-bottom: 5px;
+margin: 0 20px 10px 10px;
+display: flex;
+}
+
+.ntarei-header{
+padding-bottom: 5px;
+display: flex;
+flex-direction: column
+}
+
+.ntarei-header-left{
+/*	width: 80%; */
+margin: 0 0 0 0;
+height: 100%;
+flex: 1;	
+display: flex;
+flex-direction: column
+}
+
+#ntarei-welcome-header {
+font-size: 2.5rem;
+color: #D9B32C;
+font-variant: small-caps;
+line-height: .8;
+flex: 1;	
+text-align: center;
+}
+
+#ntarei-text-header {
+font-size: 2.5rem;
+color: #004E00;
+font-variant: small-caps;
+line-height: 1;
+margin: 10px 0 0 0;
+flex: 1;	
+text-align: center;
+}
+
+.ntarei-header-right{
+/*	width: 20%; */
+margin: 0 0 0 0;
+height: 100%;
+flex: 1;	
+}
+
+#logo-img{
+margin: 10px 0 0 0;
+margin-left: auto;
+margin-right: auto;
+padding: 0 0 0 0;
+}
+
+#ntarei-tag{
+font-family: 'Cinzel', serif;
+font-size: 2.5rem;
+font-style: italic;
+text-align: center;
+line-height: 1;
+flex: 1;
+}
+}
+
+
+@media only screen and (max-width: 767px) {
+#gform_submit_button_2{
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b;          /* Gold */
+}
+}
+
+/* End _media-queries */
+
+
+
+
+
+/*
+* .header-full-width
+* .title-area, .header-full-width .site-title {
+* width: 100%;
+* height: 0;
+* } 
+*/

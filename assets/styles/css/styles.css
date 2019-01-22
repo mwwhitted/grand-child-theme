@@ -1,3 +1,34 @@
-body {
-	padding: 10px;
-}
+
+@import "normalize.css";
+
+/* Variables */
+@import "../base/_variables";
+
+/* Base Global */
+
+@import "../base/_global";
+
+/* Header */
+
+@import "../modules/_header";
+
+/* Slides */
+
+/* @import "../modules/_slides"; */
+
+/* Contact Form */
+
+@import "../modules/_contact-form";
+
+/* Sponsors */
+
+@import "../modules/_sponsors";
+
+/* Secondary Slider */
+
+@import "../modules/_secondary-slider";
+
+/* *** Media Queries *** */
+
+@import "../modules/_media-queries";
+

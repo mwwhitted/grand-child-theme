@@ -1,7 +1,5 @@
 /* _slides */
 
-/* Slides */
-
 html > body .slide-excerpt-border {
   border: 0;
   margin: 0; 
@@ -9,7 +7,7 @@ html > body .slide-excerpt-border {
 }
 
 .slide-excerpt {
-  margin: 25px 0;  
+  margin: 1.5625rem 0;  
   padding: 0;
   
 }
