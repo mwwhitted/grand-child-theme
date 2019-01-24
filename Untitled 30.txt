@@ -1,0 +1,26 @@
+<!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
+<div style="margin-top: 10px;">
+<table width="170" border="0" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td colspan="3">
+				<div>
+					<form name="ccoptin" style="margin-bottom: 3px;" action="http://visitor.constantcontact.com/d.jsp" method="post" target="_blank">
+						<font style="font-family: arial; color: #006600; font-size: 14px; font-weight: normal;"><u><b>SIGN UP HERE</b></u> to automatically receive the details of all of our upcoming events and programs.</font><br> 
+						<input name="ea" style="border: #999999 1px solid; font-family: arial; font-size: 10px;" type="text" size="14" /> <input name="go" class="submit" style="font-family: arial,helvetica,sans-serif; font-size: 11px;" type="SUBMIT" value="Join" /> <input name="m" type="hidden" value="1102821898447" /> <input name="p" type="hidden" value="oi" />
+						<font style="font-family: arial; color: #006600; font-size: 14px; font-weight: normal;"><b>Yes</b> keep me posted on all of NTAREI's great offerings.<br><u> Our policy:</u> We never give your information to anyone else.</font>            
+					</form>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- END: Constant Contact Bubble Opt-in Email List Form -->
+<!-- BEGIN: SafeSubscribe -->
+<div style="padding-top: 5px;"><a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank">
+<img 	width="168" 
+			height="14" 
+alt="" src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" /></a> </div>
+<!-- END: SafeSubscribe -->
+

@@ -456,6 +456,12 @@ template {
 
 /* Variables */
 
+/* $mainBlue: #d9b33b;  */
+
+/* $gold: #d9b33b;
+$green: #5f6b5f;
+$maroon: #850c07; */
+
 /* _variables */
 
 /* Base Global */
@@ -463,6 +469,12 @@ template {
 /* _global */
 
 /* Base Global */
+
+.submit{
+	background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b;          
+}
 
 /* End _global */
 
@@ -708,19 +720,48 @@ font-weight: bold;
 /* Contact Form */
 
 #custom_html-5{
-	background-color: #E5F2E5;
-	padding: 10px !important;
+  background-color: #e5f2e5;
+  border: 1px solid #b2cab2;
+  margin-bottom: 15px;
+  padding: 10px !important;	
 }
+
+.safe-subscribe{
+padding-top: 5px;
+}
+
+#opt-in, table{
+margin-top: 10px;
+line-height: 1.15 !important;
+}
+
+#ccoptin{
+margin-bottom: 3px;
+}
+
+#ea{
+border: #999999 1px solid; 
+}
+
+#go{
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b !important;   }
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .button{
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b !important;   }
 
 .ctct-form{
 padding: 5px;
 /*	color: #850c07;			
- background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
+background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
 }
 
 #ctct-submitted,
 #gform_submit_button_2{
-  background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
 font-weight: bold;
 color: #d9b33b;          
 }
@@ -729,13 +770,32 @@ color: #d9b33b;
 
 /* Sponsors */
 
+/* Sponsors */
+
 /* _sponsors */
 
 /* Sponsors */
 
 .widget_cr3sponsor_widget{
-	background-color: #E5F2E5;
-	padding: 10px !important;
+  background-color: #e5f2e5;
+  border: 1px solid #b2cab2;
+  margin-bottom: 15px;
+  padding: 10px !important;	
+}
+
+#cr3sponsor_widget-8::before{
+	content: "Sponsors";
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;    
+	font-size: 2rem;
+	color: #333;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0 0 1rem;
+  padding: .75rem 0;
+  text-align: left;
+  text-transform: none;
+	border-bottom: 15px solid grey;
+	width: 100%;
 }
 
 .sponsor-title{
@@ -743,33 +803,33 @@ color: #850c07;			/* Maroon */
 }
 
 .widget_sponsors_widget ul {
-  list-style: none;
-  margin-bottom: 10px;
+list-style: none;
+margin-bottom: 10px;
 }
 
 .sidebar p:last-child, .sidebar ul {
-  margin: 0;
+margin: 0;
 }
 
 ol, ul {
-  margin: 0;
-  padding: 0;
+margin: 0;
+padding: 0;
 }
 
 *, *:before, *:after {
-  -webkit-box-sizing: inherit;
-          box-sizing: inherit;
+-webkit-box-sizing: inherit;
+        box-sizing: inherit;
 }
 
 user agent stylesheet
 ul, menu, dir {
-  display: block;
-  list-style-type: disc;
+display: block;
+list-style-type: disc;
 }
 
 .widget {
 /*    margin-bottom: 32px;*/
-  word-wrap: break-word;
+word-wrap: break-word;
 }
 
 /* 
@@ -780,16 +840,16 @@ ul, menu, dir {
 
 .widgettitle,
 .widget-title{
-  background: url(images/lines.png) bottom repeat-x;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-size: 1.6rem;
-  line-height: 1;
-  margin-bottom: 2px;
-  padding-bottom: 10px;
-	text-align: left;
-  text-transform: none;
-	border-bottom: 15px solid grey;
+background: url(images/lines.png) bottom repeat-x;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-size: 1.6rem;
+line-height: 1;
+margin-bottom: 2px;
+padding-bottom: 10px;
+text-align: left;
+text-transform: none;
+border-bottom: 15px solid grey;
 }
 
 .cr3_sponsorname {
@@ -799,24 +859,25 @@ font-size: 16px;
 font-size: 1.6rem;
 line-height: 1;
 margin-bottom: 2px;
+margin-top: 4px;
 padding-bottom: 2px;
 text-align: left;
 }
 
 .cr3_sponsorname p {
 color: #000 !important;
-  float: left;
-  font-size: 12px;
-  line-height: 1.4em;
-  margin-bottom: 15px !important;
+float: left;
+font-size: 12px;
+line-height: 1.4em;
+margin-bottom: 15px !important;
 }
 
 .cr3_sponsorwidget {
-  float: left;
-  font-size: 12px;
-  line-height: 1.4em;
-  padding-bottom: 10px;
-	border-bottom: 15px solid grey;
+float: left;
+font-size: 12px;
+line-height: 1.4em;
+padding-bottom: 10px;
+border-bottom: 15px solid grey;
 }
 
 /* End _sponsors */

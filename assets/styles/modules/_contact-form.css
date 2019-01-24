@@ -3,22 +3,50 @@
 /* Contact Form */
 
 #custom_html-5{
-	background-color: #E5F2E5;
-	padding: 10px !important;
+  background-color: #e5f2e5;
+  border: 1px solid #b2cab2;
+  margin-bottom: 15px;
+  padding: 10px !important;	
 }
+
+.safe-subscribe{
+padding-top: 5px;
+}
+
+#opt-in, table{
+margin-top: 10px;
+line-height: 1.15 !important;
+}
+
+#ccoptin{
+margin-bottom: 3px;
+}
+
+#ea{
+border: #999999 1px solid; 
+}
+
+#go{
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b !important;   }
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .button{
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b !important;   }
 
 .ctct-form{
 padding: 5px;
 /*	color: #850c07;			
- background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
+background-image: url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/bg.jpg"); */
 }
 
 #ctct-submitted,
 #gform_submit_button_2{
-  background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
 font-weight: bold;
 color: #d9b33b;          
 }
 
 /* End _contact-form */
-

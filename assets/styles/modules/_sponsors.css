@@ -1,10 +1,29 @@
+/* Sponsors */
+
 /* _sponsors */
 
 /* Sponsors */
 
 .widget_cr3sponsor_widget{
-	background-color: #E5F2E5;
-	padding: 10px !important;
+  background-color: #e5f2e5;
+  border: 1px solid #b2cab2;
+  margin-bottom: 15px;
+  padding: 10px !important;	
+}
+
+#cr3sponsor_widget-8::before{
+	content: "Sponsors";
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;    
+	font-size: 2rem;
+	color: #333;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0 0 1rem;
+  padding: .75rem 0;
+  text-align: left;
+  text-transform: none;
+	border-bottom: 15px solid grey;
+	width: 100%;
 }
 
 .sponsor-title{
@@ -12,52 +31,53 @@ color: #850c07;			/* Maroon */
 }
 
 .widget_sponsors_widget ul {
-  list-style: none;
-  margin-bottom: 10px;
+list-style: none;
+margin-bottom: 10px;
 }
 
 .sidebar p:last-child, .sidebar ul {
-  margin: 0;
+margin: 0;
 }
 
 ol, ul {
-  margin: 0;
-  padding: 0;
+margin: 0;
+padding: 0;
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+-webkit-box-sizing: inherit;
+        box-sizing: inherit;
 }
 
 user agent stylesheet
 ul, menu, dir {
-  display: block;
-  list-style-type: disc;
+display: block;
+list-style-type: disc;
 }
 
 .widget {
 /*    margin-bottom: 32px;*/
-  word-wrap: break-word;
+word-wrap: break-word;
 }
+
 /* 
 * #850c07	-	Maroon
 * #D9B33B	-	Gold
 * #5F6B5F	-	Green
-*/ 
-
+*/
 
 .widgettitle,
 .widget-title{
-  background: url(images/lines.png) bottom repeat-x;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-size: 1.6rem;
-  line-height: 1;
-  margin-bottom: 2px;
-  padding-bottom: 10px;
-	text-align: left;
-  text-transform: none;
-	border-bottom: 15px solid grey;
+background: url(images/lines.png) bottom repeat-x;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size: 16px;
+font-size: 1.6rem;
+line-height: 1;
+margin-bottom: 2px;
+padding-bottom: 10px;
+text-align: left;
+text-transform: none;
+border-bottom: 15px solid grey;
 }
 
 .cr3_sponsorname {
@@ -67,24 +87,25 @@ font-size: 16px;
 font-size: 1.6rem;
 line-height: 1;
 margin-bottom: 2px;
+margin-top: 4px;
 padding-bottom: 2px;
 text-align: left;
 }
 
 .cr3_sponsorname p {
 color: #000 !important;
-  float: left;
-  font-size: 12px;
-  line-height: 1.4em;
-  margin-bottom: 15px !important;
-}	
+float: left;
+font-size: 12px;
+line-height: 1.4em;
+margin-bottom: 15px !important;
+}
 
 .cr3_sponsorwidget {
-  float: left;
-  font-size: 12px;
-  line-height: 1.4em;
-  padding-bottom: 10px;
-	border-bottom: 15px solid grey;
+float: left;
+font-size: 12px;
+line-height: 1.4em;
+padding-bottom: 10px;
+border-bottom: 15px solid grey;
 }
 
 /* End _sponsors */

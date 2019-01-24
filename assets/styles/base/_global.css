@@ -1,6 +1,9 @@
 /* _global */
 
 /* Base Global */
-
-
+.submit{
+	background-image:  url("http://ntareicomdev.wpengine.com/wp-content/uploads/2018/12/Green-marbles.jpg");
+font-weight: bold;
+color: #d9b33b;          
+}
 /* End _global */
